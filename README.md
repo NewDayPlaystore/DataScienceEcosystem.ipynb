@@ -1,4 +1,10 @@
 # Data Science Tools and Ecosystem
+
+## Objectives: list three skills that are necessary to be a good data scientist
+$'curiosity'\$
+  *strong math skills
+  *a foundation in programming
+    
 ## In this notebook, Data Science Tools and Ecosystem are summarized.
 ### Some of the popular languages that Data Scientists use are
   1. python
@@ -24,5 +30,8 @@
 ### Below are a few examples of evaluating arithmetic expressions in Python
 #### This is a simple arithmetic expression to multiply then add integers $\(3*4)+5\$
 
+#### Output = 17
 
+### This will convert 200 minutes to hours by dividing by 60. 
+### 200 minutes/60 = 3.33
 
