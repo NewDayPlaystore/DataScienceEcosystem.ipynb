@@ -22,7 +22,7 @@
 |Apach Hadoop|
 
 ### Below are a few examples of evaluating arithmetic expressions in Python
-#### This is a simple arithmetic expression to multiply integers $\(3*5)+2\$
+#### This is a simple arithmetic expression to multiply then add integers $\(3*4)+5\$
 
 
 
